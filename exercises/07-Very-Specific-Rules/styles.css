@@ -1,5 +1,16 @@
 /** Insert your code here **/
 
+body ul li {
+	color: red;
+}
+
+body ol li:nth-child(2) {
+	background: green;
+}
+
+tr:nth-child(2n + 1) {
+	background: yellow;
+}
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
 only add lines of code on top of this lines

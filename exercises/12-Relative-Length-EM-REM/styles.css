@@ -6,3 +6,10 @@
 }
 
 /* YOUR CODE BELOW THIS LINE */
+h2 {
+	font-size: 0.8 em;
+}
+
+h3 {
+	font-size: 0.8 rem;
+}
